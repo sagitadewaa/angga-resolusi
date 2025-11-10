@@ -1,3 +1,5 @@
 Penyempurnaan aplikasi dan lain-lain
+penambahan kelas-kelas
+penambahan siswa
 penambahan aplikasi keuangan
 penambahan notifikasi wa
